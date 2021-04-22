@@ -1,3 +1,5 @@
+package Methods;
+
 import java.util.Locale;
 
 public class Practise1 {

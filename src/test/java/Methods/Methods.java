@@ -1,3 +1,5 @@
+package Methods;
+
 public class Methods {
     public String ValidateHeader()
     {
