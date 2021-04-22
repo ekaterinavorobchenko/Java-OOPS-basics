@@ -9,9 +9,17 @@ public class Multidimensional {
         a[1][0] = 3;
         a[1][1] = 4;
         a[1][2] = 7;
-        System.out.println(a[1][0]);
+        /*System.out.println(a[1][0]);
         int b[][] = {{2,4,5},{3,4,7},{5,2,1}};
-        System.out.println(b[2][1]);
+        System.out.println(b[2][1]);*/
+
+        for(int i=0;i<2;i++)
+        {
+            for (int j=0;j<3;i++)
+            {
+                System.out.println(a[i][j]);
+            }
+        }
 
     }
 }
